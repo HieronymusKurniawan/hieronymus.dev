@@ -1,0 +1,26 @@
+[	
+	{
+		"date": "07-01-2022",
+		"title": "First Internship!",
+		"description": "Began my first Internship as a Web Developer at Megadata",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "06-30-2023",
+		"title": "Graduated University!",
+		"description": "Successfully completed my Bachelor's Degree",
+		"icon": "feather:award"
+	},
+	{
+		"date": "06-30-2019",
+		"title": "Start University",
+		"description": "Began studying Informatics Engineering at Sanata Dharma University",
+		"icon": "feather:book"
+	},
+	{
+		"date": "02-08-2001",
+		"title": "Birthday!",
+		"description": "I was born the 8th of February 2001",
+		"icon": "feather:gift"
+	}
+]

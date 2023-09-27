@@ -1,0 +1,19 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "version": 2,
+    "alias": "hieronymus.dev",
+    "cleanUrls": true,
+    "public": true,
+    "redirects": [
+        { "source": "/cv", "destination": "https://read.cv/hieronymuskurniawan" },
+        { "source": "/github", "destination": "https://github.com/HieronymusKurniawan" },
+        { "source": "/linkedin", "destination": "https://www.linkedin.com/in/hieronymus-emilianus-kurniawan-a5294622b/" },
+        { "source": "/portfolio", "destination": "/projects" },
+        { "source": "/resume", "destination": "https://read.cv/hieronymuskurniawan" },
+        { "source": "/twitter", "destination": "https://twitter.com/HieronymusKrnwn" },
+        {
+            "source": "/contact",
+            "destination": "https://twitter.com/direct_messages/create/HieronymusKrnwn"
+        }
+    ]
+}
