@@ -14,16 +14,16 @@ export function useSeoProps(
 	return {
 		title,
 		description,
-		canonical: `https://hieronymus.dev/${router.asPath}`,
+		canonical: `https://hieronymus-dev.vercel.app/${router.asPath}`,
 		openGraph: {
 			title,
 			description,
 			site_name: 'hieronymus',
-			url: `https://hieronymus.dev/${router.asPath}`,
+			url: `hieronymus-dev.vercel.app/${router.asPath}`,
 			type: 'website',
 			images: [
 				{
-					url: 'https://hieronymus.dev/banner.png',
+					url: 'hieronymus-dev.vercel.app/banner.png',
 					alt: description,
 					width: 1280,
 					height: 720,

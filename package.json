@@ -2,9 +2,9 @@
     "private": true,
     "name": "hieronymus.dev",
     "version": "2.1.1",
-    "description": "Personal Website for hieronymus.dev",
-    "repository": "https://github.com/HieronymusKurniawan/hieronymus.dev.git",
-    "author": "HieronymusKurniawan <me@hieronymus.dev>",
+    "description": "Personal Website Portfolio for hieronymus.dev",
+    "repository": "https://github.com/HieronymusKurniawan/hieronymus.dev",
+    "author": "HieronymusKurniawan <hieronymus.kurnwn@gmail.com>",
     "prettier": {
         "arrowParens": "always",
         "bracketSpacing": true,
